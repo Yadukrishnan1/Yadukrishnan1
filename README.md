@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/AIMG_9611.jpg "Header")](https://www.linkedin.com/in/yadu-sarathchandran/)
+
+My name is Yadu Sarathchandran, I am currently a PhD Candidate in Physics with a minor in Computational Sciences at the University of Tennessee Knoxville. My doctoral research is on "Understanding the Atomic Dynamics in Liquid State" carried out at Oak Ridge National Laboratory and University of Tennessee Knoxville. 
+
 <!--
 **Yadukrishnan1/Yadukrishnan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
