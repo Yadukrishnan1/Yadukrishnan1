@@ -1,6 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
-My name is Yadu Sarathchandran, I am currently a PhD Candidate in Physics with a minor in Computational Sciences at the University of Tennessee Knoxville. My doctoral research is on "Understanding the Atomic Dynamics in Liquid State" carried out at Oak Ridge National Laboratory and University of Tennessee Knoxville. 
+- 🔭 I’m a PhD Candidate in Physics with a minor in Computational Sciences at the University of Tennessee Knoxville. My doctoral research is on "Understanding the Atomic Dynamics in Liquid State" carried out jointly at the Oak Ridge National Laboratory and the University of Tennessee Knoxville. 
+
+- 🌱 I’m currently transitioning to a Data Scientist role with an emphasis on ML applications and predictive analytics.
+
+- 📫 You can reach me through LinkedIn (https://www.linkedin.com/in/yadu-sarathchandran/) or using my emai: yadusarathchandran@gmail.com 
+
+- 💬 Let me know how I can be of help to you, I would be very interested to hear about your 'Data' story.
 
 <!--
 **Yadukrishnan1/Yadukrishnan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
