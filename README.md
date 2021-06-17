@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently transitioning to a Data Scientist role with an emphasis on ML applications and predictive analytics.
 
-- 📫 You can reach me through LinkedIn (https://www.linkedin.com/in/yadu-sarathchandran/) or using my emai: yadusarathchandran@gmail.com 
+- 📫 You can reach me through LinkedIn (https://www.linkedin.com/in/yadu-sarathchandran/) or using my email: yadusarathchandran@gmail.com 
 
 - 💬 Let me know how I can be of help to you, I would be very interested to hear about your 'Data' story.
 
