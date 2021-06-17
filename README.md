@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m a PhD Candidate in Physics with a minor in Computational Sciences at the University of Tennessee Knoxville. My doctoral research is on "Understanding the Atomic Dynamics in Liquid State" carried out jointly at the Oak Ridge National Laboratory and the University of Tennessee Knoxville. 
+- 🔭 I’m a PhD Candidate in Physics with a minor in Computational Sciences at the University of Tennessee Knoxville. My doctoral research is on "Understanding the Atomic Dynamics in Liquid State Systems" carried out jointly at the Oak Ridge National Laboratory and the University of Tennessee Knoxville. 
 
 - 🌱 I’m currently transitioning to a Data Scientist role with an emphasis on ML applications and predictive analytics.
 
