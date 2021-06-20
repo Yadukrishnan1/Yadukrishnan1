@@ -8,6 +8,8 @@
 
 - 💬 Let me know how I can be of help to you, I would be very interested to hear about your 'Data' story.
 
+- ⚡ Fun fact: I love travelling and exploring the national parks in the US, I am an avid soccer fan, I love to spend my free time reading non-fiction books on philosophy, economics, and history. 
+
 <!--
 **Yadukrishnan1/Yadukrishnan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,9 +25,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Skills and Expertise
 
-<h3 align="left">Languages and Tools:</h3>
+**Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL, C++
 
+**Machine Learning:** Supervised Learning (Bayesian, Non-parametric, FLD), Unsupervised Learning (Clustering, PCA)
+
+**Deep Learning:** Neural Nets & CNNs (TensorFlow, Keras), Natural Language Processing (NLTK)
+
+**Frameworks & Other:** Apache Spark, Git, Anaconda 
 
 </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
