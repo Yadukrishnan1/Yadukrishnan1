@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Skills and Expertise
+## Skills
 
 **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL, C++
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 **Deep Learning:** Neural Nets & CNNs (TensorFlow, Keras), Natural Language Processing (NLTK)
 
-**Frameworks & Others:** Apache Spark, Git, Anaconda 
+**Frameworks:** Apache Spark, Git, Anaconda 
 
 </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
