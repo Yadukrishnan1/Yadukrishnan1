@@ -8,7 +8,7 @@
 
 - 💬 Let me know how I can be of help to you, I would be very interested to hear about your 'Data' story.
 
-- ⚡ Hobbies: I love travelling and exploring the national parks in the US, I am an avid soccer fan, I love to spend my free time reading non-fiction books on philosophy, economics, and history. 
+- ⚡ Hobbies: I love travelling and exploring the national parks in the US, I am an avid soccer fan, I love to spend my free time reading non-fiction books on philosophy, economics, and history. Currently reading 'The Happiness Hypothesis' by Jonathan Haidt and 'Fundamentals' by Frank wilczek.
 
 <!--
 **Yadukrishnan1/Yadukrishnan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
