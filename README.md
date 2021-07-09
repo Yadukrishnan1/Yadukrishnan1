@@ -8,7 +8,7 @@
 
 - 💬 Let me know how I can be of help to you, I would be very interested to hear about your 'Data' story.
 
-- ⚡ Hobbies: I love travelling and exploring the national parks in the US, most recent to my collection: Zion and Bryce Canyon. Highly recommend the narrows and angels landing in Zion. When not working or travelling, I love to spend my time reading non-fiction books on philosophy, economics, and history. Currently reading 'Fundamentals' by Frank wilczek. 
+- ⚡ Hobbies: I love travelling and exploring the national parks in the US. I also love playing and watching soccer, and reading non-fiction books on philosophy, economics, and history. Currently reading 'Fundamentals' by Frank wilczek. 
 
 <!--
 **Yadukrishnan1/Yadukrishnan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
