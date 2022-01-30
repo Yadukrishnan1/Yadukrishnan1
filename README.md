@@ -4,11 +4,10 @@
 
 - 🌱 I’m currently transitioning to a Data Scientist role with an emphasis on ML applications and predictive analytics.
 
-- ⚡ Hobbies: I love travelling and exploring the national parks in the US. I also love playing and watching soccer, and reading non-fiction books on philosophy, economics, and history. Currently reading 'Fundamentals' by Frank Wilczek. 
+- ⚡ Hobbies: I love travelling and exploring the national parks in the US. I also love playing and watching soccer, and reading non-fiction books on philosophy, economics, and history. Currently reading 'When Breath Becomes Air' by Paul Kalanithi. 
 
-- 💬 Let me know how I can be of help to you, I would be very interested to hear about your 'Data' story.
 
-- 📫 You can reach me through LinkedIn (https://www.linkedin.com/in/yadu-sarathchandran/), using my email: yadusarathchandran@gmail.com or through Twitter (https://twitter.com/Yadukrishnan)
+- 📫 Let's connect! You may reach me through LinkedIn (https://www.linkedin.com/in/yadu-sarathchandran/), using my email: yadusarathchandran@gmail.com or through Twitter (https://twitter.com/Yadukrishnan)
 
 <!--
 **Yadukrishnan1/Yadukrishnan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
