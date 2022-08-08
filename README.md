@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m a Data Scientist practicing ML applications, predictive analytics, and causal inference to solve open-ended busines problems. I completed my PhD in Physics with a minor in Computational Sciences from the University of Tennessee Knoxville. My doctoral research was on "Understanding the Atomic Dynamics in Liquid State Systems" carried out jointly at the Oak Ridge National Laboratory and the University of Tennessee Knoxville. Checkout my website here (https://yadukrishnan1.github.io/).
+- 🔭 I’m a Data Scientist practicing ML applications, predictive analytics, and causal inference to solve open-ended busines problems. I completed my PhD in Physics with a minor in Computational Sciences from the University of Tennessee Knoxville. 
+
+- 🌱 My doctoral research was on "Understanding the Atomic Dynamics in Liquid State Systems" carried out jointly at the Oak Ridge National Laboratory and the University of Tennessee Knoxville. Checkout my website here (https://yadukrishnan1.github.io/).
 
 - ⚡ Hobbies: I love travelling and exploring the national parks in the US. I also love playing and watching soccer, and reading non-fiction books on philosophy, economics, and history. Currently reading 'Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies' by Geoffrey B. West. 
 
