@@ -26,13 +26,15 @@ Here are some ideas to get you started:
 
 ## Skills
 
-**Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL, C++
+**Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL, C++, Bash
 
-**Machine Learning:** Supervised Learning (Bayesian, Non-parametric, FLD), Unsupervised Learning (Clustering, PCA)
+**Machine Learning:** Supervised Learning (Bayesian, Non-parametric, FLD, Regression, Classification), Unsupervised Learning (Clustering, PCA), Mult-Variate Analysis
 
 **Deep Learning:** Neural Nets & CNNs (TensorFlow, Keras), Natural Language Processing (NLTK)
 
-**Frameworks:** Apache Spark, Git, Anaconda 
+**Frameworks:** Apache Spark, Git, Anaconda, AWS (EC2, Batch, EFS, Lambda, Sagemaker, API Gateway)
+
+**Tools:** dbt, Looker, HEX, Jupyter, 
 
 </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
