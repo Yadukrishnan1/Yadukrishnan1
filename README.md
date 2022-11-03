@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m a Data Scientist working on predictive analytics, and causal inference in medical and healthcare sector to solve open-ended research problems. I completed my PhD in Physics with a minor in Computational Sciences from the University of Tennessee Knoxville. 
+- 🔭 I’m a Data Scientist working on predictive analytics and causal inference in healthcare sector to solve open-ended research problems. I completed my PhD in Physics with a minor in Computational Sciences from the University of Tennessee Knoxville. 
 
 - 🌱 My doctoral research was on "Understanding the Atomic Dynamics in Liquid State Systems" carried out jointly at the Oak Ridge National Laboratory and the University of Tennessee Knoxville. Checkout my website here (https://yadukrishnan1.github.io/).
 
