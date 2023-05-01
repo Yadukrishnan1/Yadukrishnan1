@@ -4,10 +4,10 @@
 
 - 🌱 My doctoral research was on "Understanding the Atomic Dynamics in Liquid State Systems"(https://trace.tennessee.edu/utk_graddiss/7398/) carried out jointly at the Oak Ridge National Laboratory and the University of Tennessee Knoxville. Checkout my website here (https://yadukrishnan1.github.io/).
 
-- ⚡ Hobbies: I love travelling and exploring the national parks in the US. I also love playing and watching soccer, and reading non-fiction books on philosophy, economics, and history. Currently reading 'Grit: The Power of Passion and Perseverance' by Angela Duckworth. 
+- ⚡ Hobbies: I love exploring the national parks in the US. I also love playing and watching soccer, and reading non-fiction books on philosophy, economics, and history. 
 
 
-- 📫 Let's connect! You may reach me through LinkedIn (https://www.linkedin.com/in/yadu-sarathchandran/), using my email: yadusarathchandran@gmail.com or through Twitter (https://twitter.com/Yadukrishnan)
+- 📫 Let's connect! You may reach out to me through LinkedIn (https://www.linkedin.com/in/yadu-sarathchandran/), using my email: yadusarathchandran@gmail.com or through Twitter (https://twitter.com/Yadukrishnan).
 
 <!--
 **Yadukrishnan1/Yadukrishnan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
