@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!
 
 - 🔭 I’m a Data Scientist and MLE working on predictive analytics and causal inference in healthcare sector to solve open-ended research problems. I completed my PhD in Physics with a minor in Computational Sciences from the University of Tennessee Knoxville. 
 
