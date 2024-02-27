@@ -1,13 +1,13 @@
 ## Hi there!
 
-- 🔭 I’m a Machine Learning Scientist working on predictive analytics and causal inference in healthcare devices sector to solve open-ended research problems. I completed my PhD in Physics with a minor in Computational Sciences from the University of Tennessee Knoxville. 
+- 🔭 I’m a Machine Learning Scientist specializing in predictive analytics and causal inference within the healthcare devices sector. My focus lies in tackling complex research challenges with innovative solutions. I hold a PhD in Physics with a minor in Computational Sciences from the University of Tennessee Knoxville.
 
-- 🌱 My doctoral research was on "Understanding the Atomic Dynamics in Liquid State Systems"(https://trace.tennessee.edu/utk_graddiss/7398/) carried out jointly at the Oak Ridge National Laboratory and the University of Tennessee Knoxville. Checkout my website here (https://yadukrishnan1.github.io/).
+- 🌱 My doctoral research was on "Understanding the Atomic Dynamics in Liquid State Systems" carried out jointly at the Oak Ridge National Laboratory and the University of Tennessee Knoxville.  For further insights into my academic journey, you can explore my dissertation (https://trace.tennessee.edu/utk_graddiss/7398/).
 
 - ⚡ Hobbies: I love exploring the national parks in the US. I also love playing and watching soccer, and reading non-fiction books on philosophy, economics, and history. 
 
 
-- 📫 Let's connect! You may reach out to me through LinkedIn (https://www.linkedin.com/in/yadu-sarathchandran/), using my email: yadusarathchandran@gmail.com or through Twitter (https://twitter.com/Yadukrishnan).
+- 📫 I am always open to new connections and collaborations. Reach out to me via LinkedIn at (https://www.linkedin.com/in/yadu-sarathchandran/), drop me an email at yadusarathchandran@gmail.com, or engage with me on Twitter (https://twitter.com/Yadukrishnan).
 
 ## Skills
 
@@ -20,6 +20,8 @@
 **Frameworks:** Apache Spark, Git, Anaconda, AWS (EC2, Batch, EFS, Lambda, Sagemaker, API Gateway)
 
 **Tools:** dbt, Looker, HEX, Jupyter, 
+
+Let's continue to learn and grow together!
 
 </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
