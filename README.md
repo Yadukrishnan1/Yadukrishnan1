@@ -32,5 +32,5 @@
 </a> 
 </p>
 
-Let's continue to learn and grow together!
+Let's connect!
 
