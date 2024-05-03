@@ -1,13 +1,13 @@
 ## Hi there!
 
-- 🔭 I’m a Machine Learning Scientist specializing in predictive analytics and causal inference within the healthcare devices sector. My focus lies in tackling complex research challenges with innovative solutions. I hold a PhD in Physics with a minor in Computational Sciences from the University of Tennessee Knoxville.
+- 🔭 I’m a Machine Learning Scientist specializing in predictive analytics and causal inference within the medical devices sector. Motivated to solve complex research problems with innovative solutions. I hold a PhD in Physics with a minor in Computational Sciences.
 
-- 🌱 My doctoral research was on "Understanding the Atomic Dynamics in Liquid State Systems" carried out jointly at the Oak Ridge National Laboratory and the University of Tennessee Knoxville.  For further insights into my academic journey, you can explore my dissertation (https://trace.tennessee.edu/utk_graddiss/7398/).
+- 🌱 My doctoral research was on "Understanding the Atomic Dynamics in Liquid State Systems" carried out jointly at the Oak Ridge National Laboratory and the University of Tennessee.  For further insights into my academic journey, you can explore my dissertation (https://trace.tennessee.edu/utk_graddiss/7398/).
 
-- ⚡ Hobbies: I love exploring the national parks in the US. I also love playing and watching soccer, and reading non-fiction books on philosophy, economics, and history. 
+- ⚡ Hobbies: I equally love exploring nature and playing video games! I love playing soccer, reading books (mostly philosophy, economics, history, and science fiction), and scrolling on Twitter.
 
 
-- 📫 I am always open to new connections and collaborations. Reach out to me via LinkedIn at (https://www.linkedin.com/in/yadu-sarathchandran/), drop me an email at yadusarathchandran@gmail.com, or engage with me on Twitter (https://twitter.com/Yadukrishnan).
+- 📫 Open to new connections and collaborations. Reach out to me via LinkedIn at (https://www.linkedin.com/in/yadu-sarathchandran/), drop me an email at yadusarathchandran@gmail.com, or engage with me on Twitter (https://twitter.com/Yadukrishnan).
 
 ## Skills
 
@@ -15,11 +15,11 @@
 
 **Machine Learning:** Supervised Learning (Bayesian, Non-parametric, FLD, Regression, Classification), Unsupervised Learning (Clustering, PCA), Mult-Variate Analysis
 
-**Deep Learning:** Neural Nets & CNNs (TensorFlow, Keras), Natural Language Processing (NLTK)
+**Deep Learning:** Neural Networkss (CNN, RNN, LSTM, Transformers using mostly TensorFlow, PyTorch or Hugging Face), Natural Language Processing (using NLTK, SpaCy)
 
-**Frameworks:** Apache Spark, Git, Anaconda, AWS (EC2, Batch, EFS, Lambda, Sagemaker, API Gateway)
+**Frameworks:** Git, Spark, AWS (EC2, Lambda, Sagemaker, API Gateway)
 
-**Tools:** dbt, Looker, HEX, Jupyter, 
+**Tools:** dbt, Looker, HEX, Jupyter
 
 
 
